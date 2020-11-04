@@ -1,4 +1,5 @@
-two applications built using Flask
+Three basic apps
+
 
 1. lotto:
 	the application simulates a lotto draw based on 6 numbers indicated by the user.
